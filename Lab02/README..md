@@ -50,7 +50,7 @@ static int TimKiem(int[] a, int x)
 
 ### Giao diện menu
 
-![Menu](images/Menu.png)
+![Menu](images/menu.png)
 
 ### Nhập và xuất mảng
 
