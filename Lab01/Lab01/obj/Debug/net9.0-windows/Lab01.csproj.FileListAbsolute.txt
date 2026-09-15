@@ -1,0 +1,17 @@
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\bin\Debug\net9.0-windows\Lab01.exe
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\bin\Debug\net9.0-windows\Lab01.deps.json
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\bin\Debug\net9.0-windows\Lab01.runtimeconfig.json
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\bin\Debug\net9.0-windows\Lab01.dll
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\bin\Debug\net9.0-windows\Lab01.pdb
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.Form1.resources
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.csproj.GenerateResource.cache
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.AssemblyInfoInputs.cache
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.AssemblyInfo.cs
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.sourcelink.json
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.dll
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\refint\Lab01.dll
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.pdb
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\Lab01.genruntimeconfig.cache
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\net9.0-windows\ref\Lab01.dll
