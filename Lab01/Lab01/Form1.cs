@@ -19,7 +19,7 @@ namespace Lab01
 
         }
 
-        // 2. Nút Hiển thị: Validate dữ liệu và in thông tin
+        // 2. Nút Hiển thị
         private void btnHienThi_Click(object sender, EventArgs e)
         {
             // Kiểm tra Họ tên
@@ -83,7 +83,7 @@ namespace Lab01
                             $"Khoa/Lớp: {khoa}";
         }
 
-        // 3. Nút Xóa: Reset dữ liệu nhập
+        // 3. Nút Xóa
         private void btnXoa_Click(object sender, EventArgs e)
         {
             txtHoTen.Clear();
@@ -102,7 +102,7 @@ namespace Lab01
             txtHoTen.Focus();
         }
 
-        // 4. Nút Thoát: Hỏi xác nhận trước khi đóng
+        // 4. Nút Thoát
         private void btnThoat_Click(object sender, EventArgs e)
         {
             DialogResult dr = MessageBox.Show(
