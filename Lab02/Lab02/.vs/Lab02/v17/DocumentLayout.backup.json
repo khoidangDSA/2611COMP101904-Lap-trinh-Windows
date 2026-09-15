@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab02\\Lab02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83481A6C-3FF1-4337-93C2-6232105E3711}|Lab02.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab02\\lab02\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{83481A6C-3FF1-4337-93C2-6232105E3711}|Lab02.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83481A6C-3FF1-4337-93C2-6232105E3711}|Lab02.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab02\\lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83481A6C-3FF1-4337-93C2-6232105E3711}|Lab02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,28 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab02\\Lab02\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab02\\Lab02\\README.md*",
-              "RelativeToolTip": "README.md*",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAH0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-09-15T14:11:09.073Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab02\\Lab02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
