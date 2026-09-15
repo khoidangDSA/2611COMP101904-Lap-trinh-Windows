@@ -93,29 +93,7 @@ Windows Forms
 
 Visual Studio
 
-7. Cấu trúc bài
-
-Lab01/
-├── Lab01.sln
-├── Lab01/
-│   ├── Form1.cs
-│   ├── Form1.Designer.cs
-│   ├── Form1.resx
-│   └── Program.cs
-├── images/
-│   ├── giao-dien.png
-│   ├── ket-qua.png
-│   └── kiem-tra-nam-sinh.png
-└── README.md
-
-8. Kết luận
-
-Bài Lab 01 đã xây dựng được một ứng dụng Windows Forms cơ bản bằng C#,
-đáp ứng các yêu cầu về thiết kế giao diện, xử lý sự kiện Click, kiểm tra
-dữ liệu đầu vào, hiển thị kết quả, xóa dữ liệu và xác nhận thoát chương
-trình.
-
-9. Các Hình ảnh mô tả trực quan
+7. Các Hình ảnh mô tả trực quan
 
 ### a) Giao diện và kết quả chạy ứng dụng
 
