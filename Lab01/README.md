@@ -117,30 +117,36 @@ trình.
 
 9. Các Hình ảnh mô tả trực quan
 
-a) Giao diện và kết quả chạy ứng dụng
-##Hình ảnh giao diện
+### a) Giao diện và kết quả chạy ứng dụng
+
+#### Hình ảnh giao diện
 ![Giao diện ứng dụng](./images/GiaoDien.png)
 
-## Kết quả chạy ứng dụng
+#### Kết quả chạy ứng dụng
 ![Kết quả ứng dụng](./images/KetQua.png)
 
-b) Các yêu cầu chức năng
-## Ảnh 3 lựa chọn
+### b) Các yêu cầu chức năng
+
+#### Ảnh 3 lựa chọn khoa/lớp
 ![3 lựa chọn](./images/BaLuaChonKhoa.png)
 
-## Ảnh xác nhận thoát
-![Xác nhận thoát](./images/XacNhanThoat.png)
+#### Ảnh xác nhận thoát
+![Xác nhận thoát](./images/XacNhanOut.png)
 
-c) Kiểm tra dữ liệu đầu vào
-##Ảnh kiểm tra họ tên
+### c) Kiểm tra dữ liệu đầu vào
+
+#### Ảnh kiểm tra họ tên
 ![Kiểm tra họ tên](./images/KiemTraHoTen.png)
 
-##Ảnh kiểm tra năm sinh
-![Kiểm tra năm sinh](./images/KtNamSinhRong.png)
+#### Ảnh kiểm tra năm sinh
+![Kiểm tra năm sinh rỗng](./images/KtNamSinhRong.png)
 ![Kiểm tra năm sinh](./images/KtNamSinh.png)
 
-##Ảnh kiểm tra email
+#### Ảnh kiểm tra email
 ![Kiểm tra email](./images/KiemTraEmail.png)
 
-##Ảnh kiểm tra giới tính
+#### Ảnh kiểm tra giới tính
 ![Kiểm tra giới tính](./images/KiemTraGioiTinh.png)
+
+#### Ảnh kiểm tra Khoa/Lớp
+![Kiểm tra Khoa/Lớp](./images/KiemTraKhoaLop.png)
