@@ -1,0 +1,15 @@
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\bin\Debug\net9.0\16092026.exe
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\bin\Debug\net9.0\16092026.deps.json
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\bin\Debug\net9.0\16092026.runtimeconfig.json
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\bin\Debug\net9.0\16092026.dll
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\bin\Debug\net9.0\16092026.pdb
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\16092026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\16092026.AssemblyInfoInputs.cache
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\16092026.AssemblyInfo.cs
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\16092026.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\16092026.sourcelink.json
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\16092026.dll
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\refint\16092026.dll
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\16092026.pdb
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\16092026.genruntimeconfig.cache
+C:\Users\ADMIN\2611COMP101904-Lap-trinh-Windows\BTLop\16092026\obj\Debug\net9.0\ref\16092026.dll

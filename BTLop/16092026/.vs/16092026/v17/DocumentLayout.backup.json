@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\nhanvienthoivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|solutionrelative:nhanvienthoivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\nhanvienvanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|solutionrelative:nhanvienvanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\nhanvienkinhdoanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|solutionrelative:nhanvienkinhdoanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FEB786-9DB8-49F0-B272-02AEA6D6F79A}|16092026.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-20T12:18:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienThoiVu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\NhanVienThoiVu.cs",
+              "RelativeDocumentMoniker": "NhanVienThoiVu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\NhanVienThoiVu.cs",
+              "RelativeToolTip": "NhanVienThoiVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T02:56:03.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVienKinhDoanh.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\NhanVienKinhDoanh.cs",
+              "RelativeDocumentMoniker": "NhanVienKinhDoanh.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\NhanVienKinhDoanh.cs",
+              "RelativeToolTip": "NhanVienKinhDoanh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:54:48.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienVanPhong.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\NhanVienVanPhong.cs",
+              "RelativeDocumentMoniker": "NhanVienVanPhong.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\NhanVienVanPhong.cs",
+              "RelativeToolTip": "NhanVienVanPhong.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:54:37.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\NhanVien.cs",
+              "RelativeToolTip": "NhanVien.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:46:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:40:14.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
