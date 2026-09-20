@@ -232,7 +232,7 @@ Chương trình cho phép nhập mã sinh viên, họ tên, ngày sinh, mã lớ
 
 
 
-!\[Thêm sinh viên](images/Them-Sinh-Vien.png)
+![Thêm sinh viên](images/Them-Sinh-Vien.png)
 
 
 
@@ -256,7 +256,7 @@ Mã sinh viên đã tồn tại!
 
 
 
-!\[Kiểm tra mã trùng](images/ma-trung.png)
+![Kiểm tra mã trùng](images/ma-trung.png)
 
 
 
@@ -272,7 +272,7 @@ Ví dụ nhập điểm `11` hoặc `-1`, chương trình yêu cầu nhập lạ
 
 
 
-!\[Kiểm tra điểm](images/kiem-tra-diem.png)
+![Kiểm tra điểm](images/kiem-tra-diem.png)
 
 
 
@@ -302,7 +302,7 @@ Thông tin hiển thị gồm:
 
 
 
-!\[Danh sách sinh viên](images/xuat-sinh-vien.png)
+![Danh sách sinh viên](images/xuat-sinh-vien.png)
 
 
 
@@ -314,7 +314,7 @@ Thông tin hiển thị gồm:
 
 
 
-!\[Tìm theo mã](images/tim-theo-ma.png)
+![Tìm theo mã](images/tim-theo-ma.png)
 
 
 
@@ -330,7 +330,7 @@ Có thể nhập từ khóa như `Nguyễn` để tìm các sinh viên có họ 
 
 
 
-!\[Tìm theo tên](images/tim-theo-ten.png)
+![Tìm theo tên](images/tim-theo-ten.png)
 
 
 
@@ -346,7 +346,7 @@ Người dùng nhập mã sinh viên và điểm mới.
 
 
 
-!\[Sửa điểm](images/sua-diem.png)
+![Sửa điểm](images/sua-diem.png)
 
 
 
@@ -362,7 +362,7 @@ Người dùng nhập mã sinh viên cần xóa. Nếu mã không tồn tại, c
 
 
 
-!\[Xóa sinh viên](images/xoa-sinh-vien.png)
+![Xóa sinh viên](images/xoa-sinh-vien.png)
 
 
 
@@ -378,7 +378,7 @@ Danh sách sinh viên được sắp xếp từ điểm cao xuống điểm th�
 
 
 
-!\[Sắp xếp theo điểm](images/sap-xep.png)
+![Sắp xếp theo điểm](images/sap-xep.png)
 
 
 
@@ -394,7 +394,7 @@ Chỉ hiển thị các sinh viên có điểm trung bình từ `5` trở lên.
 
 
 
-!\[Lọc sinh viên đạt](images/loc-sinh-vien.png)
+![Lọc sinh viên đạt](images/loc-sinh-vien.png)
 
 
 
