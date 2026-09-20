@@ -216,7 +216,7 @@ Chương trình có kiểm tra dữ liệu nhập vào:
 
 
 
-!\[Menu chính](images/Menu.png)
+![Menu chính](images/Menu.png)
 
 
 
