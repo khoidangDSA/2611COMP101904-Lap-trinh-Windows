@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab04\\lab04\\lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|solutionrelative:lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab04\\lab04\\lab04\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|solutionrelative:lab04\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab04\\lab04\\lab04\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|solutionrelative:lab04\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab04\\lab04\\lab04\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|solutionrelative:lab04\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab04\\lab04\\lab04\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|solutionrelative:lab04\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab04\\lab04\\lab04\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|solutionrelative:lab04\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|c:\\users\\admin\\2611comp101904-lap-trinh-windows\\lab04\\lab04\\lab04\\duplicateproductexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AAA314-4644-4616-8E9A-FA9742C40C8B}|Lab04\\Lab04.csproj|solutionrelative:lab04\\duplicateproductexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\ProductService.cs",
+              "RelativeDocumentMoniker": "Lab04\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\ProductService.cs",
+              "RelativeToolTip": "Lab04\\ProductService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:35:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\Repository.cs",
+              "RelativeDocumentMoniker": "Lab04\\Repository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\Repository.cs",
+              "RelativeToolTip": "Lab04\\Repository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA9wC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:33:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "Lab04\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\ProductNotFoundException.cs",
+              "RelativeToolTip": "Lab04\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:57:36.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DuplicateProductException.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\DuplicateProductException.cs",
+              "RelativeDocumentMoniker": "Lab04\\DuplicateProductException.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\DuplicateProductException.cs",
+              "RelativeToolTip": "Lab04\\DuplicateProductException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:57:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\Product.cs",
+              "RelativeDocumentMoniker": "Lab04\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\Product.cs",
+              "RelativeToolTip": "Lab04\\Product.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:54:37.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\IEntity.cs",
+              "RelativeDocumentMoniker": "Lab04\\IEntity.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\IEntity.cs",
+              "RelativeToolTip": "Lab04\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:54:19.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\2611COMP101904-Lap-trinh-Windows\\Lab04\\Lab04\\Lab04\\Program.cs",
+              "RelativeToolTip": "Lab04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:51:02.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
