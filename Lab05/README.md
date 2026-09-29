@@ -106,8 +106,8 @@ Tổng học phí được tính theo công thức:
 Khi thay đổi khóa học hoặc số tháng đăng ký, tổng học phí được cập nhật tự động.
 
 2 ẢNH THỂ HIỆN HỌC PHÍ TỰ ĐỘNG THAY ĐỔI THEO SỐ THÁNG ĐÃ CHỌN
-![Tính học phí](images/Tinh-HP_1.png)
-![Tính học phí](images/Tinh-HP_2.png)
+![Tính học phí](images/TinhHP_1.png)
+![Tính học phí](images/TinhHP_2.png)
 
 ---
 
@@ -151,7 +151,7 @@ Phiếu đăng ký gồm:
 - Trạng thái nhận email.
 - Tổng học phí.
 
-![Phiếu đăng ký](images/DangKy.png)
+![Phiếu đăng ký](images/Dang_Ky.png)
 
 ---
 

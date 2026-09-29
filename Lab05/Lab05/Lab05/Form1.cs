@@ -214,21 +214,21 @@ namespace Lab05
             }
 
             // Chuẩn hóa chuỗi hiển thị đúng theo các biến bạn đã đặt trên Form:
+            // Sửa dòng Số điện thoại từ \t thành \t\t
             string thongTin =
                 "========================================\n" +
                 "         PHIẾU ĐĂNG KÝ KHÓA HỌC         \n" +
                 "========================================\n\n" +
                 $"• Họ và tên:\t\t{txtHoTen.Text.Trim()}\n" +
-                $"• Số điện thoại:\t{txtSoDienThoai.Text.Trim()}\n" +
-                $"• Ngày sinh:\t\t{dtpNgaySinh.Value:dd/MM/yyyy}\n" + // Bổ sung theo đề
+                $"• Số điện thoại:\t\t{txtSoDienThoai.Text.Trim()}\n" + 
+                $"• Ngày sinh:\t\t{dtpNgaySinh.Value:dd/MM/yyyy}\n" +
                 $"• Khóa học:\t\t{cboKhoaHoc.Text}\n" +
                 $"• Hình thức:\t\t{hinhThuc}\n" +
-                $"• Số tháng:\t\t{numSoThang.Value} tháng\n" +       // Bổ sung theo đề
+                $"• Số tháng:\t\t{numSoThang.Value} tháng\n" +
                 $"• Nhận email:\t\t{email}\n\n" +
                 "----------------------------------------\n" +
                 $"► TỔNG HỌC PHÍ:\t{lblTongTien.Text}\n" +
                 "========================================";
-
             MessageBox.Show(thongTin, "Phiếu đăng ký", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
