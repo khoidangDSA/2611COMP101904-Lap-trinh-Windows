@@ -150,4 +150,3 @@ Kết quả: Hiển thị thông báo yêu cầu chọn sản phẩm, ứng dụ
 
 Ngoài ra, ứng dụng cho phép chọn ảnh sản phẩm bằng OpenFileDialog và hiển thị trạng thái thao tác cùng số lượng sản phẩm trên StatusStrip. Dữ liệu được lưu trong bộ nhớ trong quá trình chạy chương trình, chưa sử dụng cơ sở dữ liệu SQL Server.
 
-Qua bài thực hành, em vận dụng được kiến thức Windows Forms để xây dựng giao diện quản lý dữ liệu, xử lý các thao tác CRUD và kiểm tra tính hợp lệ của dữ liệu đầu vào.
