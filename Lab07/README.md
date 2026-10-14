@@ -138,7 +138,7 @@ Tài khoản hoặc mật khẩu không đúng
 
 Form chính, MenuStrip và StatusStrip
 
-![Ảnh](images/login.png)
+![Ảnh](images/Login.png)
 
 
 Kiểm tra không mở trùng Form
