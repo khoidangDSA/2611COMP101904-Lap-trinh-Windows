@@ -73,7 +73,7 @@ Danh sách đối tượng vẽ được lưu trong bộ nhớ và được vẽ
 #### 2. Chế độ line
 ![Line](images/Line.png)
 #### 3. Chế độ rectangle
-![rectangle](images/rectangle.png)
+![rectangle](images/Rectangle.png)
 
 #### 4. Chế độ Elipse
 ![Elipse](images/Elipse.png)
