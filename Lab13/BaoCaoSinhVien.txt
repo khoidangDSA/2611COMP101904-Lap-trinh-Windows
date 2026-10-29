@@ -1,0 +1,5 @@
+﻿Mã sinh viên,Họ và tên,Tên lớp,Điểm trung bình,Kết quả
+SV002,Đặng Nguyên Khôi,CNTT K47A,10,Đạt
+SV004,Đoàn Tuấn Khôi,CNTT K47A,9.1,Đạt
+SV001,Mai Minh Tiến,CNTT K47A,8.2,Đạt
+SV003,Đặng Ngọc Tuyết Anh,CNTT K47A,4.8,Không đạt
